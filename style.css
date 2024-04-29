@@ -1,0 +1,86 @@
+body
+{
+background-position: center;
+background-size: cover;
+font-family: Andale Mono, monospace;
+}
+a
+{
+font-size: 20px !important;
+width: 400px;
+border-radius: 30px !important;
+background-color: white;
+color: black;
+}
+
+#bodyimc
+{
+    background-position: center;
+background-size: cover;
+text-align: center;
+font-family: Andale Mono, monospace;
+
+}
+#btnimc{
+    border-radius: 25px;
+     background:#f7f7f5 ;
+      padding: 20px; width: 100x; height: 50px;
+       color:#15a0c7;
+        font-family: Fantasy;
+         font-size: 25px; 
+         text-align: center;
+}
+#a2
+{
+    font-size: 30px !important;
+    width: 400px;
+    border-radius: 30px !important;
+    background-color: white;
+    color: black; 
+}
+#bodyhs
+{
+    background-position: center;
+background-size: cover;
+text-align: center;
+font-family: Andale Mono, monospace;
+
+}
+#btnhs{
+    border-radius: 25px;
+     background:#f7f7f5 ;
+      padding: 20px; width: 100x; height: 50px;
+       color:#15a0c7;
+        font-family: Fantasy;
+         font-size: 25px; 
+         text-align: center;
+}
+
+#bodyca
+{
+    background-position: center;
+background-size: cover;
+text-align: center;
+font-family: Andale Mono, monospace;
+
+}
+#btnca{
+    border-radius: 25px;
+     background:#f7f7f5 ;
+      padding: 20px; width: 100x; height: 50px;
+       color:#15a0c7;
+        font-family: Fantasy;
+         font-size: 25px; 
+         text-align: center;
+}
+
+#siu{
+font-size:20px;
+color:blue
+}
+
+#Result
+{
+    font-size: 25px;
+    color: blue;
+}
